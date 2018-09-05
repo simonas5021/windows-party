@@ -17,3 +17,5 @@ C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\Core\bin\Debug\
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\Core\bin\Debug\ControlzEx.pdb
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\Core\bin\Debug\MahApps.Metro.pdb
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\Core\bin\Debug\MahApps.Metro.xml
+D:\Programavimas\Testio\windows-party\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Programavimas\Testio\windows-party\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache

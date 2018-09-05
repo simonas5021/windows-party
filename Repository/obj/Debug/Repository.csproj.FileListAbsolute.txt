@@ -32,3 +32,5 @@ C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\Repository\bin\
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\Repository\bin\Debug\Newtonsoft.Json.dll
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\Repository\bin\Debug\Newtonsoft.Json.xml
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\Repository\bin\Debug\Repository.dll.config
+D:\Programavimas\Testio\windows-party\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Programavimas\Testio\windows-party\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache

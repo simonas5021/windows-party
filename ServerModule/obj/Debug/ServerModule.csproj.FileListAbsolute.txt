@@ -36,3 +36,5 @@ C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\ServerModule\ob
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\ServerModule\obj\Debug\ServerModule.csproj.CopyComplete
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\ServerModule\obj\Debug\ServerModule.dll
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\ServerModule\obj\Debug\ServerModule.pdb
+D:\Programavimas\Testio\windows-party\ServerModule\obj\Debug\ServerModule.csprojResolveAssemblyReference.cache
+D:\Programavimas\Testio\windows-party\ServerModule\obj\Debug\ServerModule_MarkupCompile.cache

@@ -43,3 +43,5 @@ C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\LoginModule\bin
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\LoginModule\bin\Debug\ServerModule.dll
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\LoginModule\bin\Debug\ServerModule.pdb
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\LoginModule\bin\Debug\ServerModule.dll.config
+D:\Programavimas\Testio\windows-party\LoginModule\obj\Debug\LoginModule.csprojResolveAssemblyReference.cache
+D:\Programavimas\Testio\windows-party\LoginModule\obj\Debug\LoginModule_MarkupCompile.cache

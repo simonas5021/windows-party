@@ -77,3 +77,6 @@ C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\PrimsModulityWi
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\PrimsModulityWithWPF\bin\Debug\ServerModule.dll
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\PrimsModulityWithWPF\bin\Debug\ServerModule.pdb
 C:\Users\S2786B\Downloads\Microsoft PRISM modularity with WPF\C#\PrimsModulityWithWPF\bin\Debug\ServerModule.dll.config
+D:\Programavimas\Testio\windows-party\PrimsModulityWithWPF\obj\Debug\App.baml
+D:\Programavimas\Testio\windows-party\PrimsModulityWithWPF\obj\Debug\App.g.cs
+D:\Programavimas\Testio\windows-party\PrimsModulityWithWPF\obj\Debug\PrimsModulityWithWPF_MarkupCompile.cache
